@@ -1,5 +1,5 @@
 # SkribblioHelper
-This program sorts Words for set conditions
+This program sorts Words for set conditions\n
 Possible condition is the length of the word and letters appearing in it.
 top left: input
 bottom left: output
